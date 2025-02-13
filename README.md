@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Ádám 👋
+I fell in love with coding while solving my cousin's Scratch homework in my pre-highschool years. Ever since there is no stopping!
 
+🏢 Working as a Lead Backend Developer @ Legind Technologies A/S
+🏫 Finishing Professional Bachelore of Software Development @ Erhvervsakademi SydVest
+
+### Live Projects
+- [Scorch](https://www.tryscorch.com/) 🔥 - Evaluate and select your top problems and ideas - work on what matters most.
+- [Otherlet](https://otherlet.com/) 👚 - Public inventory for fashion reseller - show & manage your stocks with ease.
 <!--
 **Ladam0203/Ladam0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
