@@ -6,8 +6,7 @@ I fell in love with coding while solving my cousin's Scratch homework in my pre-
 ### 📝 About Me
 - 🏢 **Lead Backend Developer** @ [Legind Technologies A/S](https://www.legind.com/)  
 - 🎓 **Software Development Student** @ [Erhvervsakademi SydVest](https://www.easv.dk/)  
-- 💡 Making things that people want. 
-- 🔥 Always optimizing workflows, both in code and in life.
+- 💡 Making things people want. 
 
 ---
 
