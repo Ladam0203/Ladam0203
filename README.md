@@ -19,7 +19,7 @@ I fell in love with coding while solving my cousin's Scratch homework in my pre-
 I'm always exploring and working with new tools, but here are the ones that I keep coming back to:
 
 - **Backend**: .NET
-- **Frontend**: Next.js, React, Vue.js
+- **Frontend**: Next.js, Vue.js
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Tools**: Docker, Firebase, Vercel
 
