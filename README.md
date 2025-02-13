@@ -13,7 +13,15 @@ I fell in love with coding while solving my cousin's Scratch homework in my pre-
 ### 🚀💻 Live Projects  
 - **[Scorch](https://www.tryscorch.com/)** 🔥 – Evaluate and select your top problems and ideas – work on what matters most.  
 - **[Otherlet](https://otherlet.com/)** 👚 – A public inventory for fashion resellers – show & manage your stock with ease.  
-- **[FATEL3](https://fatel3.com/)** 📦 – A highly customizable inventory solution, tailored to your business needs.  
+- **[FATEL3](https://fatel3.com/)** 📦 – A highly customizable inventory solution, tailored to your business needs.
+
+### 💻 My Favourite Tech Stack
+I'm always exploring and working with new tools, but here are the ones that I keep coming back to:
+
+- **Backend**: .NET
+- **Frontend**: Next.js, React, Vue.js
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Tools**: Docker, Firebase, Vercel
 
 ---
 
