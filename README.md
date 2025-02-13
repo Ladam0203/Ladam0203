@@ -10,7 +10,7 @@ I fell in love with coding while solving my cousin's Scratch homework in my pre-
 
 ---
 
-### 🚀💻 Live Projects  
+### 🚀 Live Projects  
 - **[Scorch](https://www.tryscorch.com/)** 🔥 – Evaluate and select your top problems and ideas – work on what matters most.  
 - **[Otherlet](https://otherlet.com/)** 👚 – A public inventory for fashion resellers – show & manage your stock with ease.  
 - **[FATEL3](https://fatel3.com/)** 📦 – A highly customizable inventory solution, tailored to your business needs.
