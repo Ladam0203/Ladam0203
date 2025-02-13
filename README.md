@@ -21,4 +21,4 @@ I fell in love with coding while solving my cousin's Scratch homework in my pre-
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorinczadam/)  
 - 🐦 [Twitter/X](https://x.com/Ladam0203)  
 
-🚀 Always open to new ideas, collaborations, and building cool stuff! The stack does not matter, if I do not know it I'll learn it!
+Always open to new ideas, collaborations, and building cool stuff! The stack does not matter, if I do not know it I'll learn it!
