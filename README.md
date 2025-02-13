@@ -1,23 +1,25 @@
 ## Hi there, I'm Ádám 👋
-I fell in love with coding while solving my cousin's Scratch homework in my pre-highschool years. Ever since there is no stopping!
+I fell in love with coding while solving my cousin's Scratch homework in my pre-high school years. Ever since, there's been no stopping!
 
-🏢 Working as a Lead Backend Developer @ Legind Technologies A/S
-🏫 Finishing Professional Bachelore of Software Development @ Erhvervsakademi SydVest
+---
 
-### Live Projects
-- [Scorch](https://www.tryscorch.com/) 🔥 - Evaluate and select your top problems and ideas - work on what matters most.
-- [Otherlet](https://otherlet.com/) 👚 - Public inventory for fashion reseller - show & manage your stocks with ease.
-<!--
-**Ladam0203/Ladam0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 About Me
+- 🏢 **Lead Backend Developer** @ [Legind Technologies A/S](https://www.legind.com/)  
+- 🎓 **Software Development Student** @ [Erhvervsakademi SydVest](https://www.easv.dk/)  
+- 💡 Making things that people want. 
+- 🔥 Always optimizing workflows, both in code and in life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀💻 Live Projects  
+- **[Scorch](https://www.tryscorch.com/)** 🔥 – Evaluate and select your top problems and ideas – work on what matters most.  
+- **[Otherlet](https://otherlet.com/)** 👚 – A public inventory for fashion resellers – show & manage your stock with ease.  
+- **[FATEL3](https://fatel3.com/)** 📦 – A highly customizable inventory solution, tailored to your business needs.  
+
+---
+
+### 📫 Get in Touch  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lorinczadam/)  
+- 🐦 [Twitter/X](https://x.com/Ladam0203)  
+
+🚀 Always open to new ideas, collaborations, and building cool stuff!
