@@ -4,8 +4,8 @@ I fell in love with coding while solving my cousin's Scratch homework in my pre-
 ---
 
 ### 📝 About Me
-- 🏢 **Lead Backend Developer** @ [Legind Technologies A/S](https://www.legind.com/)  
-- 🎓 **Software Development Student** @ [Erhvervsakademi SydVest](https://www.easv.dk/)  
+- 🏢 **Backend Developer** @ [Grumsen Development ApS](https://grumsendev.dk/)  
+- 🎓 **Software Development & Computer Science Graduate** @ [Erhvervsakademi SydVest](https://www.easv.dk/)  
 - 💡 Making things people want. 
 
 ---
@@ -22,7 +22,7 @@ I'm always exploring and working with new tools, but here are the ones that I ke
 - **Backend**: .NET
 - **Frontend**: Next.js, Vue.js
 - **Databases**: PostgreSQL, MongoDB, Redis
-- **Tools**: Docker, Firebase, Vercel
+- **Tools**: Docker, Firebase, Supabase, Vercel
 
 ---
 
